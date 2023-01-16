@@ -1,0 +1,34 @@
+PYPOLL ANALYSIS
+
+--------------------------------------------
+
+The total number of votes cast =369711
+
+--------------------------------------------
+
+The total number of votes each candidate won
+
+--------------------------------------------
+
+Charles Casper Stockham >>> 85213
+
+Diana DeGette >>> 272892
+
+Raymon Anthony Doane >>> 11606
+
+--------------------------------------------
+
+The percentage of votes each candidate won
+
+--------------------------------------------
+
+Charles Casper Stockham >>> 23.048543%%
+
+Diana DeGette >>> 73.812248%%
+
+Raymon Anthony Doane >>> 3.139209%%
+
+--------------------------------------------
+
+The winner by popular votes is  =Diana DeGette
+

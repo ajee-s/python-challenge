@@ -1,0 +1,9 @@
+PYBANK Financial Analysis
+
+--------------------------------------------
+
+Total number of months is 86
+Total amount of profit and losses is $22564198
+Average change over the period is $-8311.105882352942
+The greatest increase in profits (date and amount) over the entire period is[('16-Aug', 1862002)]
+The greatest decrease in profits (date and amount) over the entire period is[('14-Feb', -1825558)]
